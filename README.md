@@ -3,6 +3,8 @@ This is a first person shooter game, built using Unity Engine. This has full mov
 
 ## Demo
 
+https://user-images.githubusercontent.com/68365040/159168522-b0964559-54a5-4680-9bee-c8290e0684be.mp4
+
 ## Controls
 
 On Start, Lock the mouse with a Click.
