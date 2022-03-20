@@ -1,4 +1,4 @@
-# Dooms Day - An First Person Shooter Game
+# Dooms Day - First Person Shooter Game
 This is a first person shooter game, built using Unity Engine. This has full movement controls, beautiful terrain, different weapons, sounds, animations, and enemies to kill.
 
 ## Demo
